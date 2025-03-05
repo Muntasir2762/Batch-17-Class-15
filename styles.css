@@ -30,3 +30,22 @@
     margin-right: 10px;
     margin-bottom: 10px;
 }
+
+.footer{
+    height: 150px;
+    background-color: rgb(18, 16, 16);
+    color: white;
+    margin-top: 5px;
+}
+
+.footer-item{
+    width: 33%;
+    float: left;
+}
+
+.link{
+    text-decoration: none;
+    color: beige;
+    display: block;
+    margin-top: 3px;
+}
